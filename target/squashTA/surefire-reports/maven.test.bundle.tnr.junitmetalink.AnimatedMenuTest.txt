@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: maven.test.bundle.tnr.junitmetalink.AnimatedMenuTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Time elapsed: 8.984 sec

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: maven.test.bundle.tnr.junitmetalink.MutationObserverTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Time elapsed: 7.97 sec
